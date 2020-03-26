@@ -1,2 +1,2 @@
 # Algorithms
-CS/Algorithms Learning
+CS / Algorithms Learning
